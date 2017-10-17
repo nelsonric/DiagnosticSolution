@@ -1,0 +1,2 @@
+# DiagnosticSolution
+Remediate Discovery files
